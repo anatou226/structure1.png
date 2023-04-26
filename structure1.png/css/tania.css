@@ -1,0 +1,73 @@
+.header{
+    width:900px ;
+    height: 50px ;
+    background-color: gray;
+    text-align: center;
+    border-radius: 10px;
+}
+.nav{
+    width: 80px; 
+    height:200px;
+    background-color: gray;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.section{ 
+    width: 700px;
+    height: 200px;
+    background-color: gray;
+    text-align: center;
+    border-radius:10px ;
+    position: relative;
+    left: 100px;
+    bottom: 200px;
+}
+.head{
+    width: 660px;
+    height: 40px;
+    background-color:rgb(223, 200, 200) ;
+    margin-left: 20px;
+border-radius:10px ;
+}
+.article{
+    width: 660px;
+    height: 90px;
+    background-color:rgb(223, 200, 200) ;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.foot{
+    width: 660px;
+    height: 25px;
+    background-color:rgb(223, 200, 200) ;
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.aside{
+    width: 80px;
+    height: 200px;
+    background-color: gray;
+    text-align:center ;
+    margin-top: 20px;
+    border-radius: 10px;
+    position: relative;
+    left: 820px;
+    bottom: 420px;
+}
+.footer{
+    width: 900px;
+    height: 50px;
+    background-color: gray;
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+    bottom: 400px;
+}
+body {
+    color: white;
+    font-size: 20px;
+    background-color: black;
+}
